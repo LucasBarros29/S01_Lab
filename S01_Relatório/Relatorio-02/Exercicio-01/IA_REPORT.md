@@ -1,4 +1,4 @@
-###IA Report
+### IA Report
 
 Durante o desenvolvimento do programa, tive dificuldades com o fechamento dos blocos de código usando end em Lua. Utilizei uma IA para identificar onde os blocos não estavam sendo encerrados corretamente.
 
