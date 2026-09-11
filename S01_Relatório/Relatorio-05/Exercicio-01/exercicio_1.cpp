@@ -19,10 +19,7 @@ int main() {
     cout << "Digite o tamanho do chaveamento (n): ";
     cin >> n;
 
-    cout << "Total de cenarios de confrontos possiveis: "
-         << combinar_equipes(n) << endl;
+    cout << "Total de cenarios de confrontos possiveis: "<< combinar_equipes(n) << endl;
 
     return 0;
 }
-
-Exemplo de execução:
